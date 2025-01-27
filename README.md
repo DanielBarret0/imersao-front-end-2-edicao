@@ -5,7 +5,7 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aula 1 - Estruturando a Base**
-| :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS, FontAwesome (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
@@ -22,6 +22,7 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 - **Criar a sidebar navigation**: Desenvolvemos um menu lateral funcional e estilizado como parte da interface inicial.  
 - **Dicas de atalho no VSCode para HTML**: Comandos rápidos como `!` para gerar a estrutura básica e como criar elementos com maior agilidade.  
 - **Introduzir as propriedades de estilo com CSS**: Aprendemos a aplicar estilos iniciais, usando ferramentas como o **DevTools** para ajustes em tempo real e depuração visual.  
+- **Adicionar ícones com FontAwesome**: Utilizamos o FontAwesome para incluir ícones na navegação lateral, enriquecendo a estética e a usabilidade do projeto.  
 
 ---
 
@@ -29,17 +30,18 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 
 - **HTML**: Para estruturar o layout inicial, incluindo a sidebar navigation.  
 - **CSS**: Para estilizar os elementos e ajustar o design de forma elegante.  
+- **FontAwesome**: Para adicionar ícones que melhoraram a apresentação visual da sidebar.  
 
 ---
 
 ## Resultado da Aula  
 
-Ao final da aula, conseguimos criar a base do nosso projeto, com uma navegação lateral funcional e estilizada, e reforçamos conceitos fundamentais para as próximas etapas.  
+Ao final da aula, conseguimos criar a base do nosso projeto, com uma navegação lateral funcional e estilizada, incluindo ícones visuais com **FontAwesome**. Também reforçamos conceitos fundamentais para as próximas etapas.  
 
 ---
 
 <!-- Inserir imagem da sidebar navigation criada -->
-![](https://via.placeholder.com/1200x500.png?text=Sidebar+Navigation+Criada#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?text=Sidebar+Navigation+com+Ícones+Criada#vitrinedev)
 
 ## Próximos Passos  
 
