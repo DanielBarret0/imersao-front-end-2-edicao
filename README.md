@@ -5,7 +5,7 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aula 1 - Estruturando a Base**
-| :label: Tecnologias | HTML, CSS, FontAwesome (tecnologias utilizadas)
+| :label: Tecnologias | HTML, SASS, FontAwesome (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | [Imersão front-end 2 Edição](https://cursos.alura.com.br/imersao?utm_source=plataforma&utm_medium=banner&utm_campaign=imersao-front-end-2)
 
