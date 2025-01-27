@@ -29,7 +29,7 @@ O objetivo principal é capacitar desenvolvedores(as) a criar aplicações moder
 ## 🛠️ Tecnologias Utilizadas  
 
 - **HTML**: Base para estrutura do projeto;  
-- **CSS**: Estilos visuais e responsividade;  
+- **SASS**: Estilos visuais e responsividade, substituindo o CSS para um fluxo de trabalho mais eficiente e escalável;   
 - **JavaScript**: Funcionalidades e interatividade;  
 
 ---
