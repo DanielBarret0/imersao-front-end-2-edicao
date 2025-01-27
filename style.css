@@ -1,0 +1,72 @@
+:root {
+    --background-cinza: #121212;
+    --backgorund-preto: #000;
+    --cor-fonte-cinza: #b3b3b3;
+    --cor-fonte-branca: #fff;
+    --font-DM-Sans: "DM Sans", sans-serif;
+}
+
+body {
+    background-color: var(--backgorund-preto);
+    font-family: var(--font-DM-Sans);
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 12px;
+    width: 300px;
+}
+
+.sidebar__navigation {
+    background-color: var(--background-cinza);
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+}
+
+.sidebar__navigation .logo {
+    background: var(--background-cinza);
+    display: flex;
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+}
+
+.sidebar__navigation .logo img {
+    width: 80px;
+}
+
+.sidebar__navigation ul {
+    margin-top: 20px;
+    padding: 0 20px 10px 20px;
+}
+
+.sidebar__navigation ul li{
+    padding: 10px 0;
+}
+
+.sidebar__navigation ul li a{
+    color: var(--cor-fonte-cinza);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: 400ms;
+}
+
+.sidebar__navigation ul li a:hover {
+    color: var(--cor-fonte-branca);
+}
+
+.biblioteca {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--cor-fonte-cinza);
+    padding: 0 20px 10px 20px;
+    transition: 400ms;
+}
+
+.biblioteca:hover {
+    color: var(--cor-fonte-branca);
+}
