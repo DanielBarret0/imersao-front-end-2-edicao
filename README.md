@@ -7,7 +7,7 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 | :sparkles: Nome        | **Aula 1 - Estruturando a Base**
 | :label: Tecnologias | HTML, CSS, FontAwesome (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | [Imersão front-end 2 Edição](https://cursos.alura.com.br/imersao?utm_source=plataforma&utm_medium=banner&utm_campaign=imersao-front-end-2)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=Aula+1+-+Estruturando+a+Base#vitrinedev)
@@ -41,7 +41,7 @@ Ao final da aula, conseguimos criar a base do nosso projeto, com uma navegação
 ---
 
 <!-- Inserir imagem da sidebar navigation criada -->
-![](https://via.placeholder.com/1200x500.png?text=Sidebar+Navigation+com+Ícones+Criada#vitrinedev)
+![]()
 
 ## Próximos Passos  
 
