@@ -41,7 +41,7 @@ Ao final da aula, conseguimos criar a base do nosso projeto, com uma navegação
 ---
 
 <!-- Inserir imagem da sidebar navigation criada -->
-![]()
+![print do primeiro dia](https://github.com/DanielBarret0/imersao-front-end-2-edicao/blob/aula-1/assets/prints/dia-1.png)
 
 ## Próximos Passos  
 
