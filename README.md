@@ -29,7 +29,7 @@ Início da jornada para construir um projeto completo de front-end! Hoje aprende
 ## 🛠️ Tecnologias Utilizadas  
 
 - **HTML**: Para estruturar o layout inicial, incluindo a sidebar navigation.  
-- **CSS**: Para estilizar os elementos e ajustar o design de forma elegante.  
+- **SASS**: Estilos visuais e responsividade, substituindo o CSS para um fluxo de trabalho mais eficiente e escalável. 
 - **FontAwesome**: Para adicionar ícones que melhoraram a apresentação visual da sidebar.  
 
 ---
