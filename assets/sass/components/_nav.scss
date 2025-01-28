@@ -1,0 +1,48 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 12px;
+    width: 300px;
+    font-family: $font-family;
+
+    &__navigation {
+        background-color: $background-cinza;
+        border-radius: 8px;
+        padding: 16px 0 0 16px;
+
+        .logo {
+            background: $background-cinza;
+            display: flex;
+            border-radius: 8px;
+            padding: 16px 0 0 16px;
+
+            img {
+                width: 80px;
+            }
+        }
+
+        ul {
+            margin-top: 20px;
+            padding: 0 20px 10px 20px;
+
+            li {
+                padding: 10px 0;
+
+                a {
+                    color: $cor-fonte-cinza;
+                    text-decoration: none;
+                    font-weight: 600;
+                    font-size: 14px;
+                    transition: 400ms;
+
+                    &:hover {
+                        color: $cor-fonte-branca;
+                    }
+                }
+            }
+        }
+    }
+}
+

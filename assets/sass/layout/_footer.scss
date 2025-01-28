@@ -1,0 +1,56 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to right, #e22dc7, #008ae0);
+    padding: 1.5rem;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: $font-family;
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        width: 100%;
+    }
+
+    &__text {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        color: white;
+    }
+
+    &__title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: white;
+    }
+
+    &__description {
+        padding-top: 10px;
+        font-size: 1rem;
+        color: white;
+    }
+
+    &__button {
+        background-color: white;
+        color: black;
+        border: none;
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        font-weight: bold;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+
+        &:hover {
+            background: #e0e0e0;
+        }
+    }
+}
