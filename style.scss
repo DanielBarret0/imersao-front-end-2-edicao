@@ -1,0 +1,17 @@
+// Variáveis e mixins
+@import './assets/sass/utils/variables';
+
+// Estilos base
+@import './assets/sass/base/reset';
+@import './assets/sass/base/typografhy';
+@import './assets/sass/base/base';
+
+// Layout
+@import'./assets/sass/layout/header';
+@import'./assets/sass/layout/footer';
+
+// Componentes
+@import './assets/sass/components/nav';
+@import './assets/sass/components/library';
+@import './assets/sass/components/card';
+
