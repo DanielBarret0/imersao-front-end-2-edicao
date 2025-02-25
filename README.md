@@ -28,10 +28,10 @@ Construa um projeto completo de front-end com as melhores práticas e conteúdos
 | :sparkles: **Nome**        | **Imersão Front End da Alura** |
 | :label: **Tecnologias** | HTML, CSS, JavaScript, React (tecnologias utilizadas) |
 | :rocket: **URL**         | [https://url-deploy.com.br](https://url-deploy.com.br) |
-| :fire: **Desafio**     | [https://url-do-desafio.com.br](https://url-do-desafio.com.br) |
+| :fire: **Desafio**     | [Sobre a imersão](https://www.alura.com.br/artigos/imersao-front-end) |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=Imersão+Front+End+da+Alura#vitrinedev)
+![](https://github.com/DanielBarret0/imersao-front-end-2-edicao/blob/master/src/assets/prints/print-projeto-final.png#vitrinedev)
 
 ---
 
@@ -63,6 +63,7 @@ Essa conversão foi um desafio interessante, pois exigiu a organização do cód
 - **CSS**: Estilos visuais e responsividade, aplicando técnicas modernas.
 - **JavaScript**: Funcionalidades dinâmicas e interatividade.
 - **React**: Refatoração para modularização, gerenciamento de estado e criação de componentes.
+- **API Fake**: Utilizada para fazer consultas na barra de pesquisa e simular a busca de dados de forma dinâmica.
 
 ---
 
@@ -78,12 +79,6 @@ O projeto final reflete a aplicação prática de todos os conceitos aprendidos:
     - A aplicação é completamente funcional e adaptável a diferentes tamanhos de tela, com ótima experiência para o usuário.
 
 ---
-
-<!-- Inserir outra imagem do projeto -->
-![](https://via.placeholder.com/1200x500.png?text=Projeto+completo+e+publicado#vitrinedev)
-
----
-
 ## 🏁 Próximos Passos  
 
 Agora que o projeto está finalizado, os próximos passos incluem:
