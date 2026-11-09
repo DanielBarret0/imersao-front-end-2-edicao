@@ -1,97 +1,41 @@
-# Getting Started with Create React App
+# 🎧 Clone do Spotify em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Recriação da interface web do Spotify, feita na **Imersão Front-end (2ª edição)** da Alura. A primeira versão foi em HTML, CSS e JavaScript puros e depois o projeto foi refeito em **React**, dividido em componentes.
 
-## Available Scripts
+## O que tem na tela
 
-In the project directory, you can run:
+- **Sidebar**: Início, Buscar, Sua biblioteca e o card "Crie sua primeira playlist"
+- **Área principal**: cabeçalho com Inscreva-se e Entrar, saudação e grade "Navegar por todas as seções" com cards de categorias (Feitos para você, Lançamentos, Podcasts, Sertanejo, Samba e pagode, Funk, MPB, Rock, Hip Hop, Indie e outros)
+- **Rodapé**: faixa "Testar o Premium de graça" com chamada para inscrição
 
-### `npm start`
+## Componentes
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+src/
+├── App.js                 # monta o layout
+├── Sidebar/               # navegação lateral e biblioteca
+├── Main-container/        # cabeçalho e grade de categorias
+└── Footer/                # faixa de assinatura Premium
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Stack
 
-### `npm test`
+- React (Create React App)
+- JavaScript e CSS
+- Font Awesome (ícones)
+- Testing Library (configuração padrão de testes)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como rodar
 
-# Imersão Front End da Alura
+```bash
+git clone https://github.com/DanielBarret0/imersao-front-end-2-edicao.git
+cd imersao-front-end-2-edicao
+npm install
+npm start
+```
 
-Construa um projeto completo de front-end com as melhores práticas e conteúdos exclusivos. 🚀  
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: **Nome**        | **Imersão Front End da Alura** |
-| :label: **Tecnologias** | HTML, CSS, JavaScript, React (tecnologias utilizadas) |
-| :rocket: **URL**         | [https://url-deploy.com.br](https://url-deploy.com.br) |
-| :fire: **Desafio**     | [Sobre a imersão](https://www.alura.com.br/artigos/imersao-front-end) |
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/DanielBarret0/imersao-front-end-2-edicao/blob/master/src/assets/prints/print-projeto-final.png#vitrinedev)
-
----
-
-## 📝 Sobre a Imersão  
-
-A **Imersão Front End da Alura** é uma experiência prática e intensa, projetada para ensinar a construção de um projeto completo do zero até a publicação. Ao longo do curso, criamos uma aplicação interativa e responsiva, abordando as melhores práticas de desenvolvimento web.
-
-### Etapas do Projeto
-
-1. **Início com HTML, CSS e JavaScript**:
-    - Estruturamos a página com **HTML**.
-    - Estilizamos com **CSS**, aplicando responsividade.
-    - Adicionamos interatividade e funcionalidades dinâmicas com **JavaScript**.
-    
-2. **Conversão para React (Última Aula)**:
-    - No último dia de imersão, foi necessário converter o código de HTML/CSS/JS para **React**.
-    - Desafios principais:
-        - **Modularizar** o código, separando-o em componentes reutilizáveis.
-        - **Gerenciar estados** e controlar o fluxo de dados de maneira eficiente com **React**.
-        - Refatorar o código para melhorar a manutenibilidade e escalabilidade.
-
-Essa conversão foi um desafio interessante, pois exigiu a organização do código de forma mais estruturada, usando componentes, hooks e gerenciamento de estado.
+Acesse http://localhost:3000.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
-
-- **HTML**: Estruturação e marcação da página.
-- **CSS**: Estilos visuais e responsividade, aplicando técnicas modernas.
-- **JavaScript**: Funcionalidades dinâmicas e interatividade.
-- **React**: Refatoração para modularização, gerenciamento de estado e criação de componentes.
-- **API Fake**: Utilizada para fazer consultas na barra de pesquisa e simular a busca de dados de forma dinâmica.
-
----
-
-## 🚀 Resultado Final  
-
-O projeto final reflete a aplicação prática de todos os conceitos aprendidos:
-
-- **Arquitetura em React**:
-    - O código foi refatorado para utilizar **componentes**, **hooks** e **gerenciamento de estados**.
-    - O projeto tornou-se mais **modular**, o que facilita a manutenção e a adição de novas funcionalidades.
-
-- **Interface interativa e responsiva**:
-    - A aplicação é completamente funcional e adaptável a diferentes tamanhos de tela, com ótima experiência para o usuário.
-
----
-## 🏁 Próximos Passos  
-
-Agora que o projeto está finalizado, os próximos passos incluem:
-
-- **Melhorias no projeto**:
-    - Explorar novas funcionalidades para expandir a aplicação.
-    - Implementar animações e transições para enriquecer a experiência do usuário.
-
-- **Aprofundamento em React**:
-    - Estudar hooks avançados, context API e outras ferramentas poderosas do React.
-
----
-
-Sinta-se à vontade para explorar o projeto clicando [aqui](https://url-deploy.com.br). Feedbacks e sugestões são sempre bem-vindos!
-
----
+Feito por [Daniel Barreto](https://www.linkedin.com/in/daniel-barreto-developer) · [Portfólio](https://portifoliodaniel.vercel.app/)
